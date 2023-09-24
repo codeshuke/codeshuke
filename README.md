@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @codeshuke
 - 👀 I’m interested in react native.
 - 🌱 I’m currently learning react native.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ReactNative projects
+- 📫 How to reach me code.shuke@gmail.com
 
 <!---
 codeshuke/codeshuke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
